@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git | Academic</title>
+    <link>https://example.com/tag/git/</link>
+      <atom:link href="https://example.com/tag/git/index.xml" rel="self" type="application/rss+xml" />
+    <description>Git</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Git</title>
+      <link>https://example.com/tag/git/</link>
+    </image>
+    
+    <item>
+      <title>Version control. Git.</title>
+      <link>https://example.com/post/git/</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/git/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;About the version control system&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;If you&amp;rsquo;re a graphic or web designer and want to save every version of an image or layout (most likely you will), a version control system (hereinafter referred to as VCS) is just what you need. It allows you to return files to the state they were before the changes, return the project to its original state, see the changes, see who last changed something and caused the problem, who set the task and when, and much more. Using VCS also generally means that if you break something or lose files, you can easily fix it. In addition to everything, you will get all this without any additional effort.&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Local version control systems&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Many people use copying files into a separate directory as a version control method (perhaps even a timestamped directory, if they&amp;rsquo;re smart enough). This approach is very common due to its simplicity, but it is incredibly error prone. It&amp;rsquo;s easy to forget which directory you&amp;rsquo;re in and accidentally change the wrong file or copy the wrong files.&lt;/p&gt;
+&lt;p&gt;To solve this problem, programmers long ago developed local VCSs with a simple database that keeps a record of all changes to files, thus providing revision control.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1. Local version control&#34; srcset=&#34;
+               /post/git/local_hufcb633eabb4ce248b64f5422c2c69f5a_20255_20822e8017c177cf18983f1a44f65d06.webp 400w,
+               /post/git/local_hufcb633eabb4ce248b64f5422c2c69f5a_20255_0de96a6d72e1228a7498fded8ce5b989.webp 760w,
+               /post/git/local_hufcb633eabb4ce248b64f5422c2c69f5a_20255_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/git/local_hufcb633eabb4ce248b64f5422c2c69f5a_20255_20822e8017c177cf18983f1a44f65d06.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;649&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+figure 1. Local version control&lt;/p&gt;
+&lt;p&gt;One of the popular VCS was the RCS system, which is still distributed with many computers today. RCS stores sets of patches (differences between files) on disk in a special format, using which it can recreate the state of each file at a given point in time.&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Centralized version control systems&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The next big problem people face is the need to interact with other developers. In order to deal with it, centralized version control systems (TSKV) were developed. Systems such as CVS, Subversion, and Perforce use a single server that holds all versions of files, and a number of clients that retrieve files from this centralized repository. The use of CSCR has been the standard for many years.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 2. Centralized version control&#34; srcset=&#34;
+               /post/git/centralized_hu74fb508a0af33a33fa0f541a94378552_22810_f93c80165d69b5e8aac99f5f188e2113.webp 400w,
+               /post/git/centralized_hu74fb508a0af33a33fa0f541a94378552_22810_b9d41468a9ebfde9114e38056a73f977.webp 760w,
+               /post/git/centralized_hu74fb508a0af33a33fa0f541a94378552_22810_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/git/centralized_hu74fb508a0af33a33fa0f541a94378552_22810_f93c80165d69b5e8aac99f5f188e2113.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;528&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+figure 2. Centralized version control&lt;/p&gt;
+&lt;p&gt;This approach has many advantages, especially over local SLE. For example, all project developers know to some extent what each of them does. Administrators have complete control over who can do what, and it&amp;rsquo;s much easier to administer the CSCM than it is to operate local databases on each client.&lt;/p&gt;
+&lt;p&gt;Despite this, this approach also has serious disadvantages. The most obvious downside is the single point of failure represented by the centralized server. If that server goes down for an hour, during that time no one will be able to use version control to save the changes they are working on, and no one will be able to share those changes with other developers. If the hard disk where the central database is stored is damaged and there are no timely backups, you will lose everything—the entire history of the project, not counting the single snapshots of the repository that were saved on the local machines of the developers. Local VCS suffer from the same problem: when all project history is stored in one place, you risk losing everything.&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Distributed version control systems&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This is where Distributed Version Control Systems (DCCS) come into play. In RSCRs (such as Git, Mercurial, Bazaar, or Darcs), clients don&amp;rsquo;t just download a snapshot of all files (the state of the files at a particular point in time)——they copy the entire repository. In this case, if one of the servers through which the developers communicated dies, any client repository can be copied to another server to continue working. Each copy of the repository is a complete backup of all data.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 3. Distributed version control&#34; srcset=&#34;
+               /post/git/distributed_hu7dff96406965f7bb87732a216019226c_26657_7cc702330d2d251a91f6efbc3ed41fb7.webp 400w,
+               /post/git/distributed_hu7dff96406965f7bb87732a216019226c_26657_c8b5ac17e6ced08e9f31c3db3ea44837.webp 760w,
+               /post/git/distributed_hu7dff96406965f7bb87732a216019226c_26657_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/git/distributed_hu7dff96406965f7bb87732a216019226c_26657_7cc702330d2d251a91f6efbc3ed41fb7.webp&#34;
+               width=&#34;635&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+Figure 3. Distributed version control&lt;/p&gt;
+&lt;p&gt;What&amp;rsquo;s more, many RSVCs can interact with multiple remote repositories at the same time, so you can work with different groups of people using different approaches at the same time within the same project. This allows you to apply several development approaches at once, for example, hierarchical models, which is completely impossible in centralized systems.&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;A Brief History of Git&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Like many things in life, Git started off with a bit of creative chaos and heated debate.&lt;/p&gt;
+&lt;p&gt;The Linux kernel is a fairly large open source project. For most of the development of the Linux kernel (1991-2002), changes were passed between developers in the form of patches and archives. In 2002, the Linux kernel project began using BitKeeper, a proprietary decentralized VCS.&lt;/p&gt;
+&lt;p&gt;In 2005, the relationship between the Linux kernel development community and the commercial company that developed BitKeeper ended, and the free utility became unusable. This prompted the Linux kernel community (and in particular Linus Torvalds, the creator of Linux) to develop their own utility, taking into account the lessons learned from working with BitKeeper. Some of the goals pursued by the new system were:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;- Speed
+
+- simple architecture
+
+- Good support for non-linear development (thousands of parallel branches)
+
+- Complete decentralization
+
+- Ability to effectively manage large projects such as the Linux kernel (speed and reasonable disk space usage)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Since its inception in 2005, Git has evolved into an easy-to-use system while retaining its original qualities. It&amp;rsquo;s amazingly fast, efficient on large projects, and has a great branching system for non-linear development.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
