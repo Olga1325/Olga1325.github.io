@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown | Academic</title>
+    <link>https://example.com/tag/markdown/</link>
+      <atom:link href="https://example.com/tag/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markdown</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Markdown</title>
+      <link>https://example.com/tag/markdown/</link>
+    </image>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://example.com/post/markdown/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/markdown/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Markdown was created by writer and blogger John Gruber along with web activist Aaron Schwartz. They wanted to come up with the simplest and most convenient markup language with which text can be translated into a beautifully designed look. At the same time, the text must remain readable even without being reduced to a “beautiful” look. This is what Markdown turned out to be. It was created in 2004, but the language has gained the most popularity now. It is supported by a variety of blogging platforms, note-taking services, CMS, and even instant messengers. Therefore, markdown is useful for everyone who deals with the web, from developers to bloggers.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How to use the markup language&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;A person writes text in any editor and adds special combinations of standard characters to it. This is the markup, it shows where the text should be bold, where the heading should be, and where the list should be. Symbols can be used to mark up headings, text highlights, and even complex structures like tables. Special converters form a finished document based on the markup. It&amp;rsquo;s similar to using HTML, but the markdown is simpler and the text is more readable. Converters are either pre-installed in a text editor, such as a note-taking app, or are downloaded separately.&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Who Uses Markdown&lt;/p&gt;
+&lt;p&gt;Internet users who communicate in instant messengers and write notes in services that support markup.
+Developers who write documentation for projects using markdown need a simple and reliable tool.
+Content managers when filling sites that support markdown. The markup can also be used on web pages.
+Bloggers who write longreads when they design materials for articles. Many writing platforms support markdown, such as Notion.
+Writers and copywriters who want a simple text styling tool - markup that is readable on any device.
+Enthusiasts who use markup for personal purposes: write notes and to-do lists, keep diaries or create memory cards.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What is Markdown for?&lt;/p&gt;
+&lt;p&gt;Quickly format an article to translate to PDF or just look nice with no extra effort.
+Layout of a text document for placement on the site, but without the use of HTML.
+Writing documentation for the code.
+Making notes in a personal digital notebook.
+Writing beautiful messages in messengers.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Markup rules&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Basic syntax. It is very simple: the text is &amp;ldquo;wrapped&amp;rdquo; in characters or they are placed before the line. This is how the headers will look like.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;#&amp;rdquo; Heading H1 (first level, for example the title of the text)&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;##&amp;rdquo; Heading H2 (second level headings)&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;###&amp;rdquo; Heading H3 (third level, intermediate subheadings)&lt;/p&gt;
+&lt;p&gt;And so on, up to the sixth-level headings with six hashes in front of the line. In practice, subheadings below H3 are practically not used.&lt;/p&gt;
+&lt;p&gt;In markdown, you can apply basic text formatting. You can’t insert a capital letter or handwritten font, but it’s easy to highlight important areas.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Italics&lt;/em&gt; or &lt;em&gt;italics&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bold text&lt;/strong&gt; or &lt;strong&gt;bold text&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Bold and underlined text&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Quote (an angle bracket is placed before each line of the quote)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Bulleted list item&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;ldquo;1.&amp;rdquo; First item of a numbered list&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;2.&amp;rdquo; The second item of the numbered list (and so on)&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;Inserting materials. The markup allows you to insert different elements into the text: links and images, which are then “pulled up” into the document when formatting is applied.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;[link_text](any link) to insert links&lt;/p&gt;
+&lt;p&gt;[image caption](link to image) to insert images into text&lt;/p&gt;
+&lt;p&gt;***, - or ___ - a horizontal line on the entire line that separates part of the text from another&lt;/p&gt;
+&lt;p&gt;And if the text should contain an asterisk or any other “special” character that can be read wrong, you must put a backslash in front of it. For example, like this: *. Then the character will be displayed in the text as it should and is not considered as a markup rule.&lt;/p&gt;
+&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;Extended syntax. There is an extended version of markdown. It&amp;rsquo;s called GFM, GitHub Flavored Markdown. It has other interesting features, such as &lt;del&gt;strikethrough text&lt;/del&gt; wrapped in two tildes, or a &lt;code&gt;short code snippet&lt;/code&gt;. A multi-line block of code wraps in three gravis above the top line and below the bottom line. Like this:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&amp;ldquo;`&lt;/p&gt;
+&lt;p&gt;There will be a line of code here.&lt;/p&gt;
+&lt;p&gt;And here too.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;`&lt;/p&gt;
+&lt;p&gt;You can create tables based on vertical and horizontal bar characters. Or &amp;ldquo;to-do lists&amp;rdquo;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Completed Deed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;— [ ] Backlog&lt;/p&gt;
+&lt;p&gt;If the editor supports GFM, then all such syntax elements will also be converted and will look like on a web page. It even has emojis: you just need to insert the code of the desired emoticon wrapped in colons into the text. Something like this: 😄. Emoji codes are in the public domain, they can be viewed on the Internet.&lt;/p&gt;
+&lt;ol start=&#34;8&#34;&gt;
+&lt;li&gt;How to get started with markdown&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;It&amp;rsquo;s very simple: you need to install or open any editor that supports this markup and start writing. There are local editors, they need to be downloaded, and there are those that work in the browser via the Internet, like a web service. Choose any, customize to your needs and get started. The syntax is simple and easy to learn. It may even be that you already partially use it: for example, the Telegram messenger uses markdown to format text.&lt;/p&gt;
+&lt;p&gt;If you want to use markdown not for personal notes, but for decorating text on a blog or website, you need to connect a Markdown-enabled plugin to them. This is also not difficult, such plugins exist for many CMS.&lt;/p&gt;
+&lt;p&gt;Markdown is also useful for those who are planning a career as a developer. It is needed in content, in web programming, in writing documentation. In professional courses, we talk in detail about this and other tools for different purposes.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.skillfactory.ru/glossary/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markdown&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

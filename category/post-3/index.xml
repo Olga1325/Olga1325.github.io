@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>post 3 | Academic</title>
+    <link>https://example.com/category/post-3/</link>
+      <atom:link href="https://example.com/category/post-3/index.xml" rel="self" type="application/rss+xml" />
+    <description>post 3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>post 3</title>
+      <link>https://example.com/category/post-3/</link>
+    </image>
+    
+    <item>
+      <title>How was my third week</title>
+      <link>https://example.com/post/3-week/</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/3-week/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Last week I took a colloquium on analytical geometry. I passed all 10 points!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;On Thursday, I defended the first lab on programming technology. the teacher liked me code)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Last week I bought myself new lenses.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Today I took a free coffee at my favorite cafe(accumulated points)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The picture of this post describes my condition always when I write code and it starts working&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Working with bibliography</title>
+      <link>https://example.com/post/working-with-bibliography/</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/working-with-bibliography/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;In the report questions of use of control systems are considered by the biblio
+graphic information at carrying out of scientific researches. Comparative characteris
+tics of known systems are resulted. On an example of one of them (Zotero) the deci
+sion of problems of creation of the list of the used sources in accordance with GOST
+7.1-2003 is considered. all this without any additional effort.&lt;/p&gt;
+&lt;p&gt;In the course of scientific research, it is necessary to carry out
+a review of many published works in the field under study. At
+This accumulates a large number of references to documents, saves them
+full texts in electronic (and sometimes in paper) form. When it comes
+time of writing a scientific report, monograph or article, there are many
+in questions. How to navigate in the accumulated amount of information? How to make a list of used sources in the presence of times
+ny state standards and requirements of publishers?&lt;/p&gt;
+&lt;p&gt;Solving the problem of systematic work with bibliography allows
+bibliographic information management systems (BIS, reference man
+age software). Bibliographic information management systems for
+allow to create, store and reuse bibliographic
+references, forming lists of sources used in scientific articles,
+monographs, books and reports.&lt;/p&gt;
+&lt;p&gt;The use of SUBI is justified, since when studying the ratio
+the number of published scientific papers to the number of downloaded full texts from
+electronic periodicals signed by universities (according to the statistics of the leading euro
+Russian, American and Russian universities), per scientific publication with
+there are from 90 to 120 uploaded articles. Number of libraries viewed
+there are even more graphic descriptions as a result of searching and reading information.
+In the process of comprehending the information found, a large set of
+notes that can be used to write scientific articles. Ve
+Note-taking can be done in SUBI and obtained from the collected records
+article drafts.&lt;/p&gt;
+&lt;p&gt;You can enter bibliographic information about documents manually.
+But most search engines for scientific resources (Google Scholar, SCOPUS,
+WoK, etc.) and e-journal access platforms (ScienceDirect, Sprin-
+gerLink, etc.) allow you to get a bibliographic description in a format up to
+allowing direct import to SUBI.&lt;/p&gt;
+&lt;p&gt;SUIS includes a database and a system for generating selected references in
+formats defined by the standards or rules adopted by the publisher
+properties. Integration with well-known word processors allows you to
+arrange links according to the text of a scientific work and automatically generate
+tion of the list of sources used. A number of systems have the ability to
+port (export) elements of bibliographic references from the biblio
+graphical databases and websites, enable collaboration and
+access to the database from any computer connected to the Internet.&lt;/p&gt;
+&lt;p&gt;At present, many such systems are known;
+some of them for a number of parameters. The first to appear were
+nye proprietary (proprietary, non-free) library management systems
+graphic information:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bookends (appeared in 1983, developer Sonny Software, price $99);&lt;/li&gt;
+&lt;li&gt;Reference Manager (appeared in 1984, developed by Thomson Reuters,
+price $239.95);&lt;/li&gt;
+&lt;li&gt;EndNote (appeared in 1988, developed by Thomson Reuters, price
+$299.95);&lt;/li&gt;
+&lt;li&gt;Biblioscape (appeared in 1998, developer CG Information, price $79-
+$299);&lt;/li&gt;
+&lt;li&gt;RefWorks (appeared in 2001, developer RefWorks, price $100 for
+year).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There are much more free (free) systems (about 20). Some of
+they appeared just a few years ago and, in terms of their capabilities, are not
+blunt proprietary.
+Let&amp;rsquo;s dwell on the two most popular systems in recent times.
+bibliographic information management: Zotero (introduced in 2006,
+developer Center for History and New Media at GMU, site &lt;a href=&#34;https://www.zotero.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.zotero.org&lt;/a&gt;) and
+Mendeley (appeared in 2008, developed by Mendeley, website
+&lt;a href=&#34;https://www.mendeley.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.mendeley.com&lt;/a&gt;). The advantages of Zotero and Mendeley include
+following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;free to use (although Mendeley, unlike Zotero,
+proprietary system due to closed source code);&lt;/li&gt;
+&lt;li&gt;saving bibliographic information &amp;ldquo;on the fly&amp;rdquo; when viewing
+sites (you can automatically add bibliographic elements to the database)
+information, for example, through the RIS or BibTeX format);&lt;/li&gt;
+&lt;li&gt;automatic saving together with the bibliography of the full text of a hundred
+tii in PDF or HTML formats (if available);&lt;/li&gt;
+&lt;li&gt;the ability to create a bibliography in MS Word, OpenOffice Writer and
+other word processors;&lt;/li&gt;
+&lt;li&gt;multi-platform (the ability to work under different operating
+systems);&lt;/li&gt;
+&lt;li&gt;the ability to synchronize with the server to store the database.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Both SUBIs use style files in csl format configured for
+different requirements of publishers for the design of the bibliography. There is even food
+A.A. Chetverikov style files according to GOST R 7.0.5-2008. However
+for scientific reports and works, GOST 7.1-2003 should be used.
+There are differences between the SUBI data. In favor of Zotero at the moment there is
+three arguments:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;more stable operation (this is indirectly indicated by the numbers of current
+versions: Zotero has version 2.09, Mendeley has version 0.9.8.1);&lt;/li&gt;
+&lt;li&gt;open source code, which allows (if desired and knowledge of the basics of
+gramming) customize the SUBI to fit your needs;&lt;/li&gt;
+&lt;li&gt;the presence of a Russian-language interface and a support site
+(&lt;a href=&#34;http://www.zotero.org/support/ru/start%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.zotero.org/support/ru/start)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;What makes it difficult for these systems to create a style that complies with GOST
+7.1-2003? A number of features of the formatting language used by systems
+citations CSL (Citation Style Language), developed on the basis of XML. It is open and
+is an international standard independent of any specific
+application, document format, or programming language. However
+there are a number of growth issues: getting to some of the bibliography fields from Zote
+ro is impossible.&lt;/p&gt;
+&lt;p&gt;The presentation of bibliographic records within Zotero is based on
+uses the MODS standard (Metadata Object Description Schema,
+&lt;a href=&#34;http://www.loc.gov/standards/mods/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.loc.gov/standards/mods/&lt;/a&gt;) which contains all fields required
+mye for the formation of bibliographic records. However, in the module, answer
+For formatting citations in CSL in Zotero, not all fields are available
+or displayed correctly.&lt;/p&gt;
+&lt;p&gt;The openness of the Zotero code makes it easy to fix incomplete or inconsistent
+the correctness of mapping the MODS format to CSL objects, since, unfortunately, it is very
+it is difficult to achieve quick changes in officially supported
+my code in the Zotero project. For example, accessibility at the formatting level
+the book page number field was officially added a year after the
+a remote request on the support forum. Therefore, it takes a gene to work.
+Publish the corrected version when new versions of Zotero are released. Fixed
+Newer versions are available under the same license. Fixed
+Newer versions are available under the same license. They can be downloaded from the website
+GOST 7.1 bibliography support project for the Russian style at
+&lt;a href=&#34;http://code.google.com/p/zotero-gost-rus-bibliography/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://code.google.com/p/zotero-gost-rus-bibliography/&lt;/a&gt;. On the download page
+instructions for installing Zotero, filling in the fields, and a style file are available.
+In the future, it is planned to make all changes to the main branch of development
+the Zotero project and add the created style to the official sti repository
+lei.&lt;/p&gt;
+&lt;p&gt;Corrections that are related to the incompleteness or incorrectness of the
+Fermentations in CSL are listed below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;added access to the date field of the last page availability check
+site, accessDate field;&lt;/li&gt;
+&lt;li&gt;to support the correct display of documents in different languages
+made available the language field, which allows, in particular, in English
+lingual links use formatting elements on the same
+language&lt;/li&gt;
+&lt;li&gt;for a complete presentation of patent descriptions and official publications
+added support for the following fields: assignee, patentNumber,
+priorityNumbers, legalStatus, and applicationNumber;&lt;/li&gt;
+&lt;li&gt;fixed display of record type report, because in the original version
+a report is treated as a book entry.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A number of other changes have also been made. In particular, the formation
+information about the first author and fields of responsibility that are created in
+depending on the number of authors.
+The changes made to Zotero and the style developed will allow scientific
+employees, teachers, graduate students and students to reduce the time for
+preparation of scientific publications and competently draw up a list of used materials
+exacters.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://example.com/post/markdown/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/markdown/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Markdown was created by writer and blogger John Gruber along with web activist Aaron Schwartz. They wanted to come up with the simplest and most convenient markup language with which text can be translated into a beautifully designed look. At the same time, the text must remain readable even without being reduced to a “beautiful” look. This is what Markdown turned out to be. It was created in 2004, but the language has gained the most popularity now. It is supported by a variety of blogging platforms, note-taking services, CMS, and even instant messengers. Therefore, markdown is useful for everyone who deals with the web, from developers to bloggers.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How to use the markup language&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;A person writes text in any editor and adds special combinations of standard characters to it. This is the markup, it shows where the text should be bold, where the heading should be, and where the list should be. Symbols can be used to mark up headings, text highlights, and even complex structures like tables. Special converters form a finished document based on the markup. It&amp;rsquo;s similar to using HTML, but the markdown is simpler and the text is more readable. Converters are either pre-installed in a text editor, such as a note-taking app, or are downloaded separately.&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Who Uses Markdown&lt;/p&gt;
+&lt;p&gt;Internet users who communicate in instant messengers and write notes in services that support markup.
+Developers who write documentation for projects using markdown need a simple and reliable tool.
+Content managers when filling sites that support markdown. The markup can also be used on web pages.
+Bloggers who write longreads when they design materials for articles. Many writing platforms support markdown, such as Notion.
+Writers and copywriters who want a simple text styling tool - markup that is readable on any device.
+Enthusiasts who use markup for personal purposes: write notes and to-do lists, keep diaries or create memory cards.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What is Markdown for?&lt;/p&gt;
+&lt;p&gt;Quickly format an article to translate to PDF or just look nice with no extra effort.
+Layout of a text document for placement on the site, but without the use of HTML.
+Writing documentation for the code.
+Making notes in a personal digital notebook.
+Writing beautiful messages in messengers.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Markup rules&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Basic syntax. It is very simple: the text is &amp;ldquo;wrapped&amp;rdquo; in characters or they are placed before the line. This is how the headers will look like.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;#&amp;rdquo; Heading H1 (first level, for example the title of the text)&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;##&amp;rdquo; Heading H2 (second level headings)&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;###&amp;rdquo; Heading H3 (third level, intermediate subheadings)&lt;/p&gt;
+&lt;p&gt;And so on, up to the sixth-level headings with six hashes in front of the line. In practice, subheadings below H3 are practically not used.&lt;/p&gt;
+&lt;p&gt;In markdown, you can apply basic text formatting. You can’t insert a capital letter or handwritten font, but it’s easy to highlight important areas.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Italics&lt;/em&gt; or &lt;em&gt;italics&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bold text&lt;/strong&gt; or &lt;strong&gt;bold text&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Bold and underlined text&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Quote (an angle bracket is placed before each line of the quote)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Bulleted list item&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;ldquo;1.&amp;rdquo; First item of a numbered list&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;2.&amp;rdquo; The second item of the numbered list (and so on)&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;Inserting materials. The markup allows you to insert different elements into the text: links and images, which are then “pulled up” into the document when formatting is applied.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;[link_text](any link) to insert links&lt;/p&gt;
+&lt;p&gt;[image caption](link to image) to insert images into text&lt;/p&gt;
+&lt;p&gt;***, - or ___ - a horizontal line on the entire line that separates part of the text from another&lt;/p&gt;
+&lt;p&gt;And if the text should contain an asterisk or any other “special” character that can be read wrong, you must put a backslash in front of it. For example, like this: *. Then the character will be displayed in the text as it should and is not considered as a markup rule.&lt;/p&gt;
+&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;Extended syntax. There is an extended version of markdown. It&amp;rsquo;s called GFM, GitHub Flavored Markdown. It has other interesting features, such as &lt;del&gt;strikethrough text&lt;/del&gt; wrapped in two tildes, or a &lt;code&gt;short code snippet&lt;/code&gt;. A multi-line block of code wraps in three gravis above the top line and below the bottom line. Like this:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&amp;ldquo;`&lt;/p&gt;
+&lt;p&gt;There will be a line of code here.&lt;/p&gt;
+&lt;p&gt;And here too.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;`&lt;/p&gt;
+&lt;p&gt;You can create tables based on vertical and horizontal bar characters. Or &amp;ldquo;to-do lists&amp;rdquo;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Completed Deed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;— [ ] Backlog&lt;/p&gt;
+&lt;p&gt;If the editor supports GFM, then all such syntax elements will also be converted and will look like on a web page. It even has emojis: you just need to insert the code of the desired emoticon wrapped in colons into the text. Something like this: 😄. Emoji codes are in the public domain, they can be viewed on the Internet.&lt;/p&gt;
+&lt;ol start=&#34;8&#34;&gt;
+&lt;li&gt;How to get started with markdown&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;It&amp;rsquo;s very simple: you need to install or open any editor that supports this markup and start writing. There are local editors, they need to be downloaded, and there are those that work in the browser via the Internet, like a web service. Choose any, customize to your needs and get started. The syntax is simple and easy to learn. It may even be that you already partially use it: for example, the Telegram messenger uses markdown to format text.&lt;/p&gt;
+&lt;p&gt;If you want to use markdown not for personal notes, but for decorating text on a blog or website, you need to connect a Markdown-enabled plugin to them. This is also not difficult, such plugins exist for many CMS.&lt;/p&gt;
+&lt;p&gt;Markdown is also useful for those who are planning a career as a developer. It is needed in content, in web programming, in writing documentation. In professional courses, we talk in detail about this and other tools for different purposes.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.skillfactory.ru/glossary/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markdown&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
