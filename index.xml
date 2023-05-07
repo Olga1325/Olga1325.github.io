@@ -33,6 +33,46 @@
     </item>
     
     <item>
+      <title>C&#43;&#43;</title>
+      <link>https://example.com/project/c&#43;&#43;/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/c&#43;&#43;/</guid>
+      <description>&lt;p&gt;Various programs for programming in C++&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How was my fourth week</title>
+      <link>https://example.com/post/4-week/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/4-week/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;I went for a massage last week. It is so relaxing! I have more energy and strength.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I went to a new movie in the cinema, which was filmed in space. So exciting, I really liked it.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;My friend had a birthday. We celebrated for 7 hours in the loft. I met new people and had a great time.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python and environment</title>
+      <link>https://example.com/project/python/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/python/</guid>
+      <description>&lt;p&gt;Various programs for programming in Python&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>How was my first week</title>
       <link>https://example.com/post/1-week/</link>
       <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
@@ -482,6 +522,120 @@ Writing beautiful messages in messengers.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Scientific programming languages</title>
+      <link>https://example.com/post/scientific-programming-languages/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/scientific-programming-languages/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;bash&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Unix shell scripting, created by Ken Thompson in the early 1970s, is closely related to the C programming language. Bash, an updated Unix shell, was first released in the late 80s and is still under active development. Bash is typically scripted for server configuration, so it&amp;rsquo;s a good choice for modern cloud environments with containerized storage and microservices. Shell scripts are used quite often, so knowledge of this language is useful.&lt;/p&gt;
+&lt;p&gt;Also worth noting is zsh, which is currently the default shell on macOS.&lt;/p&gt;
+&lt;p&gt;Applications: server administration, CLI tools, DevOps, virtualization.&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;COBOL&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;One of the oldest languages ​​still in use today was created by Grace Hopper in the late 1950s and was intended to standardize the development of large-scale business applications on computers. A brilliant concept that is still used today in cross-platform SDKs. An incredible 95% of ATM transactions go through COBOL systems, with many of these devices operating 24 hours a day, 365 days a year. Device vendors such as IBM develop more powerful COBOL machines but continue to maintain and upgrade existing systems due to the cost and risk of replacing them. COBOL isn&amp;rsquo;t going anywhere anytime soon. This is a good choice for those who want to work with clients from the financial sector.&lt;/p&gt;
+&lt;p&gt;Applications: banking/finance, international corporations, governments.&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;C/C++&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;These languages ​​often occupy the top of various ratings - they are valued for their power and speed. C was created in the early 1970s by Dennis Ritchie, C++ was developed by Bjorn Stroustrup in 1985. Today, these two languages ​​underpin everything from operating systems and games to modern scientific computing and machine learning. C and C++ are well suited for demanding applications that value low-level hardware access and performance. Learning these languages ​​takes time and effort.&lt;/p&gt;
+&lt;p&gt;Scope: OS / SDK development, embedded devices, game engines, science.&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;C#&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;C#, released by Microsoft in 2000, was developed by Anders Hejlsberg as a cross-platform object-oriented programming language. It is now often used to develop business applications, APIs, games, and more. Due to its wide feature set, this language is suitable for graphics and other asynchronous programming tasks.&lt;/p&gt;
+&lt;p&gt;Applications: corporate applications, software and user interface development, games, graphics.&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;Dart&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;A modern language developed by Google for building mobile, desktop, web and server applications. Its creator Lars Bak also came up with the JavaSript Engine V8. Dart resembles other modern object-oriented programming languages ​​- C#, TypeScript, and Java - and provides a rich set of features suitable for defining complex interactions, asynchronous operations, animations, and other tasks.&lt;/p&gt;
+&lt;p&gt;Applications: cross-platform applications, cloud services / enterprise systems, games, graphics.&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;Fortran&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Fortran, developed at IBM in the 1950s by John Backus, is a general-purpose language that was created for scientific and engineering work. It is still widely used for these purposes, including benchmark testing of the world&amp;rsquo;s fastest supercomputers. It has also been applied in space and physics research and weather modeling.&lt;/p&gt;
+&lt;p&gt;Applications: aerospace/defense, scientific computing, numerical analysis.&lt;/p&gt;
+&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Java is a general-purpose OOP language developed in the 1990s by James Gosling at Sun (now owned by Oracle) and designed to be compiled into bytecode to run on the Java virtual machine. By 2020, this includes almost every kind of device, from TVs and game consoles to servers, phones and even kitchen appliances. The language is widely used in corporations and universities, which has made it popular among both novice programmers and experienced developers.&lt;/p&gt;
+&lt;p&gt;Applications: enterprise applications, embedded systems, web services, games.&lt;/p&gt;
+&lt;ol start=&#34;8&#34;&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;JavaScript was developed by Brandon Eich in the 1990s to add scripting to websites. Today it is a universal web interface language with powerful, standardized features that are supported by all major browsers. JavaScript conforms to the EcmaScript standard, which is updated every few years with new language specifications. In addition, JavaScript is often used to develop back-end services and APIs, mobile applications, games, and other software. This is an excellent choice for learning and further improvement.&lt;/p&gt;
+&lt;p&gt;Applications: full-stack development, cloud services / container storage, games, utilities.&lt;/p&gt;
+&lt;ol start=&#34;9&#34;&gt;
+&lt;li&gt;Julia&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;A modern high-level language designed for high-performance numerical processing and statistical analysis. Julia was developed in 2009 by Jeff Besanson, Stefan Karpinski, Viral B. Shah and Alan Edelman. It is one of four languages ​​that can achieve petaflops of supercomputing performance (along with C, C++, and Fortran). Popular with universities, governments and financial institutions.&lt;/p&gt;
+&lt;p&gt;Applications: financial analysis, mathematical research, scientific computing.&lt;/p&gt;
+&lt;ol start=&#34;10&#34;&gt;
+&lt;li&gt;Kotlin&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Designed to interact with Java, Kotlin is packed with functional programming and OOP features, including lambda expressions, operator overloading, and so on. In 2019, Google named Kotlin as the language of choice for Android development, so it&amp;rsquo;s definitely worth learning for those who plan to build Android apps and plugins for popular SDKs.&lt;/p&gt;
+&lt;p&gt;Applications: Android applications, server-side development, and all areas where Java is used.&lt;/p&gt;
+&lt;ol start=&#34;11&#34;&gt;
+&lt;li&gt;Lisp&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Lisp is a group of languages ​​related to the historical implementation of LISP, which was developed at MIT in the 1950s to describe programs in a mathematical way. The syntax in Lisp is based on s-expressions, which distinguishes it from most other languages, many of which are related to or influenced by C. Lisp was popular in early AI research and was widely used as a scripting language for CAD and other engineering applications because it treats code as data and allows language customization through macros, which distinguishes it from more static languages. Notable applications based on it include AutoLisp (a script for AutoCad) and Roomba.One of the languages ​​in the family, Clojure, is especially useful for building large scale business and web applications.&lt;/p&gt;
+&lt;p&gt;Applications: artificial intelligence, robotics, scripting, language extensions, research, development.&lt;/p&gt;
+&lt;ol start=&#34;12&#34;&gt;
+&lt;li&gt;Lua&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Lua was developed in 1993 by Roberto Jeruzalimski for embedding in other applications. It is now widely used as a scripting language for adding new features to programs. For example, it can be used to supplement the description of game logic in the development of video games or expand the set of user functions in graphic applications.&lt;/p&gt;
+&lt;p&gt;Applications: Software extensions, game logic, automation, electronics/Internet of things.&lt;/p&gt;
+&lt;ol start=&#34;13&#34;&gt;
+&lt;li&gt;PowerShell&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;PowerShell was developed by Microsoft in 2006 to provide Unix-like command-line interface functionality on Windows. It was later released as open source and ported to macOS, CentOS and Ubuntu. PowerShell is widely used on systems that use Windows Server and other Microsoft technologies to make administration easier and reduce maintenance costs.&lt;/p&gt;
+&lt;p&gt;Applications: Windows system administration, command line interface, scripts, maintenance.&lt;/p&gt;
+&lt;ol start=&#34;14&#34;&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Python, predstavlennyye v 1991 godu Gvido van Rossumom, byl zaduman kak khorosho chitayemyy yazyk s funktsiyami OOP, predpolagayushchiy ispol&amp;rsquo;zovaniye funktsional&amp;rsquo;nykh paradigm dlya postroyeniya chistykh i khorosho organizovannykh programm. Python pol&amp;rsquo;zuyetsya podderzhkoy krupnykh platform i primenyayetsya v samykh raznykh sferakh, v tom chisle v nauke, intellektual&amp;rsquo;noy obrabotke dannykh, razrabotke sistem iskusstvennogo intellekta, komp&amp;rsquo;yuternoy grafike dlya khudozhestvennykh fil&amp;rsquo;mov, oblachnykh vychisleniyakh, razrabotke igr i mnogikh drugikh. Python khorosho zarekomendoval sebya i ostanetsya odnim iz naiboleye vostrebovannykh instrumentov v techeniye dolgogo vremeni.&lt;/p&gt;
+&lt;p&gt;Applications: artificial intelligence / machine learning, data mining, cloud services / web, media, scripts.&lt;/p&gt;
+&lt;ol start=&#34;15&#34;&gt;
+&lt;li&gt;R&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;R was released in 1995 for statistical calculations and other complex mathematical operations related to data analysis and graphics. The Fortune 500 often uses R to perform complex risk analysis, customer trends, and other computationally intensive tasks. R is different from many statistics languages, and its s-expression-based syntax is reminiscent of Lisp. Although rarely used for other purposes, R is considered the standard in data analytics, especially for market forecasting or user trend analysis.&lt;/p&gt;
+&lt;p&gt;Applications: data mining, predictive analytics, graphics.&lt;/p&gt;
+&lt;ol start=&#34;16&#34;&gt;
+&lt;li&gt;ruby&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Ruby was developed by Yukihiro Matsumoto in 1995 as an object-oriented scripting language to make up for the lack of OOP features in other scripting programming languages ​​of the day. Features such as dynamic typing, inheritance, reflection, and operator overloading make it ideal for creating complex scripts and web server applications.&lt;/p&gt;
+&lt;p&gt;Applications: complex scripts, package management, utilities, web servers.&lt;/p&gt;
+&lt;ol start=&#34;17&#34;&gt;
+&lt;li&gt;Rust&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Rust is a multi-paradigm language designed for building large-scale parallel systems with high performance and reliability. Since 2016, Rust has been voted the most popular programming language in a StackOverflow poll every year. Being a system-level language similar to C++ and not requiring long processing times or having a virtual machine, Rust provides low-level access to hardware. This makes it ideal for developing operating systems, programs for microcontrollers and other software where hardware performance is critical.&lt;/p&gt;
+&lt;p&gt;Applications: OS development, embedded applications, servers, tools, games.&lt;/p&gt;
+&lt;ol start=&#34;18&#34;&gt;
+&lt;li&gt;SQL&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;SQL otnositsya k universal&amp;rsquo;nym yazykam programmirovaniya, no yavlyayetsya moshchnym predmetno-oriyentirovannym yazykom dlya upravleniya relyatsionnymi bazami dannykh. Sposoby yego primeneniya — ot khranilishch dannykh Fortune 500 do vstroyennogo SQLite — shiroko ispol&amp;rsquo;zuyutsya v desktopnykh i mobil&amp;rsquo;nykh prilozheniyakh. Na mnogikh pozitsiyakh v IT i razrabotke neobkhodimo khotya by bazovoye znaniye SQL. Rasshirennyye navyki pozvolyayut razrabotchiku sozdavat&amp;rsquo; chrezvychayno bezopasnyye i nadezhnyye pravila predmetnoy oblasti, ne zavisyashchiye ot yazyka programmirovaniya ili ispol&amp;rsquo;zuyemogo SDK. Vysokoprofil&amp;rsquo;nyye realizatsii vklyuchayut v sebya Microsoft SQL Server, Oracle Database i PostgreSQL.Each of them has a unique extension of the SQL language and offers new features that go beyond the core SQL specification. Learning SQL doesn&amp;rsquo;t take long and will come in handy in many areas from analytics and data science to IT management and software development.&lt;/p&gt;
+&lt;p&gt;Applications: working with relational data, embedding data in applications.&lt;/p&gt;
+&lt;ol start=&#34;19&#34;&gt;
+&lt;li&gt;Swift&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Swift was released by Apple in 2014 as a replacement for Objective-C in their products (similar to how Kotlin replaced Java for Android). Swift retains some of the Objective-C features (such as dynamic dispatch) used in Apple product software, but features improved security and a modified syntax closer to C# or Java.&lt;/p&gt;
+&lt;p&gt;Applications: creating applications for macOS, iOS, watchOS and so on.&lt;/p&gt;
+&lt;ol start=&#34;20&#34;&gt;
+&lt;li&gt;typescript&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;TypeScript is an open source language from Microsoft designed to add OOP functionality to JavaScript and improve the usability of complex applications. TypeScript, introduced in 2012, is commonly used to build robust, scalable web applications, frameworks, and other programs, such as the popular VS Code editor.&lt;/p&gt;
+&lt;p&gt;Applications: web interface, API development, games, scaling any JavaScript software.&lt;/p&gt;
+&lt;p&gt;Conclusion&lt;/p&gt;
+&lt;p&gt;For a successful career in IT, you need to know at least several languages ​​from this list. Each of them has its own strengths and weaknesses: it is best to take advantage of a particular environment and look for other tools for those areas where the system does not perform as well. If a language is not suitable for a particular task, find one that is more useful. There are many programming styles and dozens of design patterns for each of these languages.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
       <link>https://example.com/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
@@ -665,7 +819,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-149375682&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-264193587&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -675,7 +829,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-149375682&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-264193587&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1151,27 +1305,6 @@ $$&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://example.com/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/external-project/</guid>
-      <description></description>
     </item>
     
     <item>
